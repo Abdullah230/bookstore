@@ -5,7 +5,3 @@
 \begin{equation}
     \sum\limits_{j\in\mathbb{J}}R^{j}_{i}[\omega] \geq R_{min},\;\forall i
 \end{equation}
-    
-\begin{equation}
-    \sum\limits_{j\in\mathbb{J}}p^{j}_{i}[\omega] \leq P_{i}^{max},\;\forall i
-\end{equation}
